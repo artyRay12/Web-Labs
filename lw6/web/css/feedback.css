@@ -1,0 +1,11 @@
+.menu_icon span:nth-child(2), .menu_icon span:nth-child(3) {
+    top: 13px; }
+  
+  .menu_icon span:nth-child(4) {
+    top: 26px; }
+  
+  .menu_open span:nth-child(1) {
+    top: 10px;
+    width: 0%;
+    left: 50%; }
+  

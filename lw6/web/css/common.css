@@ -1,0 +1,9 @@
+.owl-carousel {
+    position: relative; }
+  
+  .owl-dots {
+    position: absolute;
+    top: 95%;
+    left: 25%;
+    right: 25%; 
+}

@@ -1,0 +1,12 @@
+1. Вынести проверку и константы в модуль check.inc.php
+    function checkCalculatorParametres()
+    {
+        return errCode;
+    }
+
+    funtion getErrMessage($errCode);
+    {
+
+    }
+2. Модуль math.inc.php
+    function div, и прочие

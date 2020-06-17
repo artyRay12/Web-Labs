@@ -1,0 +1,13 @@
+header 
+{
+    position: fixed;
+    max-width: 1920px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .information_block
+{
+    position: absolute;
+    z-index: 200;

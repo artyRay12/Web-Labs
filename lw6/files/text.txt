@@ -1,0 +1,4 @@
+/dev/projects/local/lw6/files/
+Строка2
+Строка3
+Строка4
